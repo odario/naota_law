@@ -1,0 +1,573 @@
+# Copyright (C) 2017 作者の名前
+# This file is distributed under the テーマのライセンス.
+msgid ""
+msgstr ""
+"Project-Id-Version: lawyer_naota テーマのバージョン\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/lawyer_naota\n"
+"POT-Creation-Date: 2017-11-16 09:04:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+msgid "meta__title"
+msgstr "Naota Law Office"
+
+#: about.php:13 about.php:27
+msgid "about__title"
+msgstr "Naota Law Office"
+
+#: about.php:17
+msgid "about__subtitle"
+msgstr "Abogados, Honorarios, Área de práctica"
+
+#: about.php:24 archive.php:24
+msgid "breadcrumbs__home"
+msgstr "HOME"
+
+#: about.php:36 about.php:356
+msgid "about__introduce_lawyer"
+msgstr "Presentación de Abogados"
+
+#: about.php:38
+msgid "about__name"
+msgstr "Yosuke Naota (Daiichi Tokyo Bar Association)"
+
+#: about.php:42
+msgid "about__biography"
+msgstr "Trabajó en el departamento de resolución del problema/conflicto de empresas en un despacho de abogados más grande en Tokio. <br />Fundó Naota Law Office con la experiencia de estudio y trabajo en España.<br />Su actividad profesional se centra en el asesoramiento y representación a las empresas hispánicas y las empresas japonesa. También trata de los asuntos de individuales, especialmente el accidente de tráfico, el apoyo para la victima por delitos, derecho de menores. "
+
+#: about.php:46
+msgid "about__history"
+msgstr "Carrera"
+
+#: about.php:50
+msgid "about__2006_03"
+msgstr "marzo de 2006"
+
+#: about.php:50
+msgid "about__2006_03_body"
+msgstr "Licenciado de Derecho, Universidad de Tokio "
+
+#: about.php:55
+msgid "about__2007_09"
+msgstr "septiembre de 2007"
+
+#: about.php:55
+msgid "about__2007_09_body"
+msgstr "Licenciado como abogado japonés"
+
+#: about.php:60
+msgid "about__2007_09_to_2015_11"
+msgstr "septiembre de 2007 〜 noviembre de 2015"
+
+#: about.php:60
+msgid "about__2007_09_to_2015_11_body"
+msgstr "Nagashima Ohno & Tsunematsu, Tokio"
+
+#: about.php:65
+msgid "about__2013_06"
+msgstr "junio de 2013"
+
+#: about.php:65
+msgid "about__2013_06_body"
+msgstr "LLM de Universitat de Barcelona, España "
+
+#: about.php:70
+msgid "about__2014_03_to_2014_08"
+msgstr "de marzo a agosto de 2014"
+
+#: about.php:70
+msgid "about__2014_03_to_2014_08_body"
+msgstr "Uría Menéndez, Barcelona, España"
+
+#: about.php:75
+msgid "about__2014_10_to_2015_07"
+msgstr "octubre de 2014 〜 julio de 2015"
+
+#: about.php:75
+msgid "about__2014_10_to_2015_07_body"
+msgstr "Vilá Abogados, Barcelona, España"
+
+#: about.php:80
+msgid "about__2016_05"
+msgstr "mayo de 2016"
+
+#: about.php:80
+msgid "about__2016_05_body"
+msgstr "Funda Onoda & Naota "
+
+#: about.php:85
+msgid "about__2016_12"
+msgstr "diciembre de 2016 "
+
+#: about.php:85
+msgid "about__2016_12_body"
+msgstr "Cambia el nombre a Naota Law Office "
+
+#: about.php:92 about.php:359
+msgid "about__topic_handled"
+msgstr "Área de práctica "
+
+#: about.php:96
+msgid "about__topic_handled_body"
+msgstr "Centramos en el asesoramiento y representación para las empresas, pero estamos dispuesto de asesorar a los clientes privados. <br />Especialmente asesoramos a los clientes de España o de Latinoamérica sobre los temas de contratos, negocio, cobro de crédito, juicio y administración jurídico en Japón. <br />También tratamos de varios asuntos. Siguientes son las áreas donde tenemos las experiencias. "
+
+#: about.php:100
+msgid "about__for_business"
+msgstr "Para las empresas"
+
+#: about.php:105
+msgid "about__for_business_body_01"
+msgstr "Mercantil general, Asesoramiento diario"
+
+#: about.php:109
+msgid "about__for_business_body_02"
+msgstr "Asesoramiento de la ley de las sociedades (junta general de accionistas, establecer las sociedades, liquidación etc."
+
+#: about.php:113
+msgid "about__for_business_body_03"
+msgstr "Preparación y revisión los estatutos etc."
+
+#: about.php:117
+msgid "about__for_business_body_04"
+msgstr "M&A（Due Diligence, Share Purchase Agreement etc.）"
+
+#: about.php:121
+msgid "about__for_business_body_05"
+msgstr "Venture Business y Venture Finance"
+
+#: about.php:125
+msgid "about__for_business_body_06"
+msgstr "Negociación y revision de contrato etc."
+
+#: about.php:129
+msgid "about__for_business_body_07"
+msgstr "Legal Check de negocio nuevo"
+
+#: about.php:133
+msgid "about__for_business_body_08"
+msgstr "Juicio entre las empresas"
+
+#: about.php:137
+msgid "about__for_business_body_09"
+msgstr "los problemas de empleo (despido, sindicato etc.）"
+
+#: about.php:141
+msgid "about__for_business_body_10"
+msgstr "Cobro de crédito (embargar etc.）"
+
+#: about.php:145
+msgid "about__for_business_body_11"
+msgstr "Concurssal"
+
+#: about.php:149
+msgid "about__for_business_body_12"
+msgstr "Presentar en el mercado japonés, Apoyo a las empresas extranjeras sobre los problemas en Japón"
+
+#: about.php:153
+msgid "about__for_business_body_13"
+msgstr "etc."
+
+#: about.php:158
+msgid "about__for_consumer_title"
+msgstr "Para los clientes privados"
+
+#: about.php:163
+msgid "about__for_consumer_body_01"
+msgstr "Accidente de tráfico"
+
+#: about.php:167
+msgid "about__for_consumer_body_02"
+msgstr "Herencia"
+
+#: about.php:171
+msgid "about__for_consumer_body_03"
+msgstr "Divorcio etc."
+
+#: about.php:175
+msgid "about__for_consumer_body_04"
+msgstr "Problema inmobiliario"
+
+#: about.php:179
+msgid "about__for_consumer_body_05"
+msgstr "Internet（eliminación de WEB etc.）"
+
+#: about.php:183
+msgid "about__for_consumer_body_06"
+msgstr "Cobro de credito, embargo provisional etc."
+
+#: about.php:187
+msgid "about__for_consumer_body_07"
+msgstr "estafa"
+
+#: about.php:191
+msgid "about__for_consumer_body_08"
+msgstr "Concursal"
+
+#: about.php:195
+msgid "about__for_consumer_body_09"
+msgstr "defender de acusado"
+
+#: about.php:199
+msgid "about__for_consumer_body_10"
+msgstr "Apoyo para los menores maltratados"
+
+#: about.php:206 about.php:362
+msgid "about__fee"
+msgstr "Honorarios"
+
+#: about.php:210
+msgid "about__fee_body"
+msgstr "Depende del asunto, se podría modificar. <br>Es gratis presentar un presupuesto de honorarios. Nos pregunta."
+
+#: about.php:214
+msgid "about__consultation"
+msgstr "Consulta general"
+
+#: about.php:218
+msgid "about__consultation_fee"
+msgstr "JPY 7,000 por 30 minutos"
+
+#: about.php:222
+msgid "about__civil_case"
+msgstr "民事事件（資力要件を満たす方は法テラス利用も可能）"
+
+#: about.php:227
+msgid "about__civil_case_body_01"
+msgstr "Retainer Fee　8% de beneficio（Si el beneficio supera a JPY 3 millones, 5%+JPY90,000）(el mínimo es JPY 100,000.)<br />Success Fee 16% de beneficio obtenido（en caso de superar a JPY 3 millones, 10%+JPY180,000）"
+
+#: about.php:231
+msgid "about__civil_case_body_02"
+msgstr "Embargo JPY 50,000～"
+
+#: about.php:235
+msgid "about__civil_case_body_03"
+msgstr "Para los asuntos que necesita comunicaciones en ingres o español, en principio, aplicamos Time Charge JPY 30,000 por hora. "
+
+#: about.php:239
+msgid "about__contract_negotiation"
+msgstr "Negociar las condiciones de contrato (preparación de contrato)"
+
+#: about.php:243
+msgid "about__contract_negotiation_body_01"
+msgstr "Retainer Fee　2% del precio del contrato（el minimo es JPY 100,000.）"
+
+#: about.php:244
+msgid "about__contract_negotiation_body_02"
+msgstr "Success Fee 4%"
+
+#: about.php:245
+msgid "about__contract_negotiation_body_03"
+msgstr "O Time Charge JPY 28,000 por hora"
+
+#: about.php:246
+msgid "about__contract_negotiation_body_04"
+msgstr "depende del caso"
+
+#: about.php:249
+msgid "about__divorce"
+msgstr "Divorcio"
+
+#: about.php:254
+msgid "about__divorce_body_01"
+msgstr "Negociar: Retainer Fee JPY 100,000～, Success Fee JPY200,000～"
+
+#: about.php:258
+msgid "about__divorce_body_02"
+msgstr "Mediación jurídico: Retainer Fee JPY 300,000～, Success Fee JPY200,000～"
+
+#: about.php:262
+msgid "about__divorce_body_03"
+msgstr "Juicio: Retainer Fee JPY 200,000～, Success Fee JPY200,000～<br />En caso de reclamar compensación/indemnización etc., facturamos aparte 16% del importe obtenido."
+
+#: about.php:267
+msgid "about__internet_slander"
+msgstr "ネットでの誹謗中傷対策"
+
+#: about.php:272
+msgid "about__internet_slander_body_01"
+msgstr "任意の削除請求　着手金　5万円～、成功報酬5万円～ "
+
+#: about.php:276
+msgid "about__internet_slander_body_02"
+msgstr "仮処分手続（誹謗中傷記事削除・IP開示請求）　着手金20万円～、報酬金15万円～"
+
+#: about.php:280
+msgid "about__internet_slander_body_03"
+msgstr "発信者情報開示請求　着手金20万円～、報酬金15万円～"
+
+#: about.php:285
+msgid "about__bankruptcya"
+msgstr "破産、民事再生等"
+
+#: about.php:289 about.php:290
+msgid "about__bankruptcya_body_01"
+msgstr "着手金　非事業者の場合20万円～、事業者の場合50万円～。"
+
+#: about.php:290
+msgid "about__bankruptcya_body_02"
+msgstr "成功報酬 bの1に準ずる"
+
+#: about.php:293
+msgid "about__will"
+msgstr "遺言関連"
+
+#: about.php:298
+msgid "about__will_body_01"
+msgstr "遺言書作成　10万円～（遺言執行者に選任される場合5万円）"
+
+#: about.php:302
+msgid "about__will_body_02"
+msgstr "遺言執行　経済的利益が300万円以下の場合30万円、経済的利益が300万円を超える場合　2%+24万円<br />遺言執行に裁判手続きを要する場合には、別途bに準じた報酬を請求するものとする"
+
+#: about.php:307
+msgid "about__criminal_case"
+msgstr "刑事事件"
+
+#: about.php:312
+msgid "about__criminal_case_body_01"
+msgstr "身柄拘束をともなうもの　着手金30万円～、成功報酬20万円～ "
+
+#: about.php:316
+msgid "about__criminal_case_body_02"
+msgstr "在宅事件　着手金　20万円～、成功報酬20万円～"
+
+#: about.php:321
+msgid "about__victim_assistance"
+msgstr "犯罪被害者援助（法テラス利用にて実質無料となる場合があります）"
+
+#: about.php:325
+msgid "about__victim_assistance_body_01"
+msgstr " 着手金15万円～、成功報酬15万円～又は経済的利益の15%"
+
+#: about.php:326
+msgid "about__victim_assistance_body_02"
+msgstr "損害賠償命令申立については、bを基準とする。"
+
+#: about.php:329
+msgid "about__daily_allowance"
+msgstr "日当"
+
+#: about.php:334
+msgid "about__daily_allowance_body_01"
+msgstr "往復の移動時間が2時間を超え4時間以下となる遠方への出張　日当3万円"
+
+#: about.php:338
+msgid "about__daily_allowance_body_02"
+msgstr "往復の移動時間が4時間を超える遠方への出張　日当5万円"
+
+#: about.php:342
+msgid "about__daily_allowance_body_03"
+msgstr "上記着手金等を割引する代わりに、裁判手続き等の期日ごとに日当を設定する場合もございます。"
+
+#: about.php:347
+msgid "about__fee_notice"
+msgstr "いずれも、消費税及び実費は別途いただきます。<br />上記に記載のないものは、当事務所に備置されている報酬基準による。"
+
+#: access_section_inner.php:4
+msgid "access__about_office"
+msgstr "Sobre nosotros"
+
+#: access_section_inner.php:12
+msgid "access__office_name_t"
+msgstr "Nombre de despacho"
+
+#: access_section_inner.php:15
+msgid "access__office_name_d"
+msgstr "Naota Law Office"
+
+#: access_section_inner.php:18
+msgid "access__phone_number_t"
+msgstr "Teléfono"
+
+#: access_section_inner.php:21
+msgid "access__phone_number_d"
+msgstr "(+81)3-6457-3602"
+
+#: access_section_inner.php:24
+msgid "access__fax_d"
+msgstr "FAX"
+
+#: access_section_inner.php:27
+msgid "access__fax_t"
+msgstr "(+81)3-6457-3603"
+
+#: access_section_inner.php:30
+msgid "access__address_t"
+msgstr "Dirección"
+
+#: access_section_inner.php:33
+msgid "access__address_d"
+msgstr "〒160-0023<br />5F, Keinan Bld. 5,<br />8-14-18, Nishi Shinjuku, Shinjuku-ku, Tokyo"
+
+#: access_section_inner.php:36
+msgid "access__check_on_map"
+msgstr "Mapa"
+
+#: archive.php:12 archive.php:33
+msgid "archive__title"
+msgstr "News"
+
+#: archive.php:16
+msgid "archive__subtitle"
+msgstr "Novedades"
+
+#: archive.php:27
+msgid "archive_news_list"
+msgstr "News List"
+
+#: archive.php:34
+msgid "archive__description"
+msgstr "Noticia hasta ahora"
+
+#: archive.php:57
+msgid "archive__read_more"
+msgstr "ver"
+
+#: archive.php:76
+msgid "archive__see_more"
+msgstr "ver más"
+
+#: contact_section_inner.php:3
+msgid "contact__feel_free_to_contact_us"
+msgstr "Si tiene las preguntas, no dude preguntarnos."
+
+#: header.php:31
+msgid "header__introduce_lawyer"
+msgstr "Abogados"
+
+#: header.php:34
+msgid "header__topics_handled"
+msgstr "Área de Practica"
+
+#: header.php:37
+msgid "header__contact"
+msgstr "Contacto"
+
+#: index.php:8
+msgid "top__main_copy"
+msgstr "Servicio intimo para todos clientes"
+
+#: index.php:11
+msgid "top__sub_copy"
+msgstr "Naota Law Office ofrece el servicio intimo para todos clientes. <br />Apoyamos a los negocios y la vida de los clientes como el mejor compañero. <br /> Podemos responderles en inglés y español."
+
+#: index.php:13
+msgid "top__contact_here"
+msgstr "Contacto"
+
+#: index.php:20
+msgid "top__office_strength"
+msgstr "Punto fuerte de Naota Law Office"
+
+#: index.php:30
+msgid "top__multilingual_support"
+msgstr "Trabajo por multi lengua"
+
+#: index.php:32
+msgid "top__multilingual_support_body"
+msgstr "Podemos trabajar por ingles y por español. <br />Revision de los contratos,<br />Representación en negociación."
+
+#: index.php:34
+msgid "top__check_career"
+msgstr "Carrera"
+
+#: index.php:42
+msgid "top__reasonable_price"
+msgstr "el mejor servicio legal por el precio apropriado"
+
+#: index.php:44
+msgid "top__reasonable_price_body"
+msgstr "Tenemos confianza en la calidad de nuestro servicio legal. <br /> Gratis por propuesta de honorarios."
+
+#: index.php:46
+msgid "top__check_pricing"
+msgstr "Honoarios"
+
+#: index.php:54
+msgid "top__records_and_experience"
+msgstr "Experiencia profesional"
+
+#: index.php:56
+msgid "top__records_and_experience_body"
+msgstr "Tenemos mucha experiencia en revision del contrato, cobro de credito, representación juridico en el juzgado, mercantil diario. "
+
+#: index.php:58
+msgid "top__check_topics_handled"
+msgstr "Ver área de práctica"
+
+#: index.php:69
+msgid "top__introduce_lawyer"
+msgstr "Introduccion de Naota Law Office"
+
+#: index.php:75
+msgid "top__introduce_lawyer_body"
+msgstr "Somos el despacho pequeño, pero podemos presentar el servicio intimo a los clientes por el precio apropiado. <br /><br />Se centra en los asuntos para los clientes desde America o desde España o Latinoamérica."
+
+#: index.php:77
+msgid "top__detail_here"
+msgstr "Ver más"
+
+#: index.php:86
+msgid "top__main_topics_handled"
+msgstr "Área de practica principal"
+
+#: index.php:97
+msgid "top__vb_corporate_law"
+msgstr "Venture Business"
+
+#: index.php:100
+msgid "top__vb_corporate_law_body"
+msgstr "Nuestra actividad profesional se centra en el asesoramiento y apoyo a las empresas pequeñas o medias. <br /> Derecho mercantil, revision de los contratos diarios, Cobro de credito, juicio, derecho laboral."
+
+#: index.php:112
+msgid "top__collection_of_claim"
+msgstr "Cobro de Credito"
+
+#: index.php:115
+msgid "top__collection_of_claim_body"
+msgstr "Es importante consultar primero. <br /> Podemos presentar nuestro servicio de cobro de credito por Success Fee Base. </a> Si tiene interés, por favor, nos pregunta. "
+
+#: index.php:127
+msgid "top__traffic_accident"
+msgstr "Accidente de tráfico"
+
+#: index.php:130
+msgid "top__traffic_accident_body"
+msgstr "Somos listado como un consejero especial para el asunto de accidente de tráfico. "
+
+#: index.php:142
+msgid "top__spanish_topics"
+msgstr "Apoyo para los clientes hispánicos"
+
+#: index.php:145
+msgid "top__spanish_topics_body"
+msgstr "No existen muchos abogados en Japón que puedan responderles en español. Podemos ofrecer nuestro servicio juridico por español."
+
+#: news_section_inner.php:3
+msgid "news__title"
+msgstr "Novedades recientes"
+
+
+#. Theme Name of the plugin/theme
+msgid "lawyer_naota"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "直田先生のためのテーマ"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "作者の名前"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""

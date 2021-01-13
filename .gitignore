@@ -1,0 +1,9 @@
+.idea
+/.htaccess
+wp/license.txt
+wp/readme.html
+
+wp/wp-config.php
+*.sql
+*.sql.gz
+logs/

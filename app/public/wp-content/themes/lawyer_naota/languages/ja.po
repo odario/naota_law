@@ -1,0 +1,573 @@
+# Copyright (C) 2017 作者の名前
+# This file is distributed under the テーマのライセンス.
+msgid ""
+msgstr ""
+"Project-Id-Version: lawyer_naota テーマのバージョン\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/lawyer_naota\n"
+"POT-Creation-Date: 2017-11-16 09:04:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+msgid "meta__title"
+msgstr "直田法律事務所"
+
+#: about.php:13 about.php:27
+msgid "about__title"
+msgstr "直田法律事務所について"
+
+#: about.php:17
+msgid "about__subtitle"
+msgstr "弁護士、弁護士費用、取扱業務等の紹介"
+
+#: about.php:24 archive.php:24
+msgid "breadcrumbs__home"
+msgstr "HOME"
+
+#: about.php:36 about.php:356
+msgid "about__introduce_lawyer"
+msgstr "弁護士の紹介"
+
+#: about.php:38
+msgid "about__name"
+msgstr "直田　庸介（第一東京弁護士会所属）"
+
+#: about.php:42
+msgid "about__biography"
+msgstr "都内の国内最大手の企業法務系法律事務所にて、主に一般企業法務・紛争解決に従事。<br />スペインへの留学、スペインの法律事務所での勤務の経験も生かし、直田法律事務所を設立。<br />スペイン語圏の企業や、国内中小企業に対するアドバイスを中心とし、交通事故、犯罪被害者支援、子どもの権利保護などの活動にも力を入れている。"
+
+#: about.php:46
+msgid "about__history"
+msgstr "経歴"
+
+#: about.php:50
+msgid "about__2006_03"
+msgstr "2006年3月"
+
+#: about.php:50
+msgid "about__2006_03_body"
+msgstr "東京大学法学部卒業"
+
+#: about.php:55
+msgid "about__2007_09"
+msgstr "2007年9月"
+
+#: about.php:55
+msgid "about__2007_09_body"
+msgstr "弁護士登録"
+
+#: about.php:60
+msgid "about__2007_09_to_2015_11"
+msgstr "2007年9月〜2015年11月"
+
+#: about.php:60
+msgid "about__2007_09_to_2015_11_body"
+msgstr "長島・大野・常松法律事務所"
+
+#: about.php:65
+msgid "about__2013_06"
+msgstr "2013年6月"
+
+#: about.php:65
+msgid "about__2013_06_body"
+msgstr "スペイン、バルセロナ大学ロースクール卒業"
+
+#: about.php:70
+msgid "about__2014_03_to_2014_08"
+msgstr "2014年3月〜8月"
+
+#: about.php:70
+msgid "about__2014_03_to_2014_08_body"
+msgstr "Uria Menendez法律事務所（スペイン）出向"
+
+#: about.php:75
+msgid "about__2014_10_to_2015_07"
+msgstr "2014年10月〜2015年7月"
+
+#: about.php:75
+msgid "about__2014_10_to_2015_07_body"
+msgstr "Vila法律事務所（スペイン）出向"
+
+#: about.php:80
+msgid "about__2016_05"
+msgstr "2016年5月"
+
+#: about.php:80
+msgid "about__2016_05_body"
+msgstr "小野田・直田法律事務所　設立"
+
+#: about.php:85
+msgid "about__2016_12"
+msgstr "同年12月"
+
+#: about.php:85
+msgid "about__2016_12_body"
+msgstr "直田法律事務所に名称変更"
+
+#: about.php:92 about.php:359
+msgid "about__topic_handled"
+msgstr "取扱業務"
+
+#: about.php:96
+msgid "about__topic_handled_body"
+msgstr "企業のお客様に対するアドバイスが中心ではありますが、個人のお客様のご相談も受け付けております。<br />特色としては、スペイン語を生かし、スペインや中南米のスペイン語圏の依頼者（主に企業）の日本における契約審査、紛争解決、日常法務顧問業務を提供しております。<br />また、それ以外にも、様々な類型の業務を取り扱っておりますが、これまで取扱経験のある主な分野は以下の通りです。"
+
+#: about.php:100
+msgid "about__for_business"
+msgstr "企業向け"
+
+#: about.php:105
+msgid "about__for_business_body_01"
+msgstr "法律顧問業務"
+
+#: about.php:109
+msgid "about__for_business_body_02"
+msgstr "会社法関連アドバイス（株主総会、会社設立、清算etc.）"
+
+#: about.php:113
+msgid "about__for_business_body_03"
+msgstr "各種規約・内部規定の整備（利用規約、個人情報保護etc）"
+
+#: about.php:117
+msgid "about__for_business_body_04"
+msgstr "事業再編・M&A（法務DD、株式譲渡契約etc）"
+
+#: about.php:121
+msgid "about__for_business_body_05"
+msgstr "ベンチャー支援・ベンチャーファイナンス"
+
+#: about.php:125
+msgid "about__for_business_body_06"
+msgstr "契約交渉・契約書審査（業務委託契約、継続的売買契約etc)"
+
+#: about.php:129
+msgid "about__for_business_body_07"
+msgstr "新規事業の法的リスクチェック"
+
+#: about.php:133
+msgid "about__for_business_body_08"
+msgstr "紛争・訴訟"
+
+#: about.php:137
+msgid "about__for_business_body_09"
+msgstr "雇用問題（解雇、労働組合etc）"
+
+#: about.php:141
+msgid "about__for_business_body_10"
+msgstr "債権回収（差押等強制執行）"
+
+#: about.php:145
+msgid "about__for_business_body_11"
+msgstr "事業再生・倒産"
+
+#: about.php:149
+msgid "about__for_business_body_12"
+msgstr "海外企業の日本進出支援、日本におけるトラブル対応"
+
+#: about.php:153
+msgid "about__for_business_body_13"
+msgstr "etc."
+
+#: about.php:158
+msgid "about__for_consumer_title"
+msgstr "個人向け（法テラス対応可）"
+
+#: about.php:163
+msgid "about__for_consumer_body_01"
+msgstr "交通事故（弁護士保険対応可）"
+
+#: about.php:167
+msgid "about__for_consumer_body_02"
+msgstr "相続・遺言"
+
+#: about.php:171
+msgid "about__for_consumer_body_03"
+msgstr "離婚・不貞行為慰謝料・養育費回収"
+
+#: about.php:175
+msgid "about__for_consumer_body_04"
+msgstr "不動産取引トラブル"
+
+#: about.php:179
+msgid "about__for_consumer_body_05"
+msgstr "インターネットトラブル（削除請求、発信者情報開示請求）"
+
+#: about.php:183
+msgid "about__for_consumer_body_06"
+msgstr "債権回収、保全処分、強制執行"
+
+#: about.php:187
+msgid "about__for_consumer_body_07"
+msgstr "消費者被害"
+
+#: about.php:191
+msgid "about__for_consumer_body_08"
+msgstr "債務整理・破産申立"
+
+#: about.php:195
+msgid "about__for_consumer_body_09"
+msgstr "刑事弁護（少年事件付添人活動）"
+
+#: about.php:199
+msgid "about__for_consumer_body_10"
+msgstr "児童虐待・ひとり親家庭支援活動"
+
+#: about.php:206 about.php:362
+msgid "about__fee"
+msgstr "弁護士報酬"
+
+#: about.php:210
+msgid "about__fee_body"
+msgstr "事案に応じて、完全成功報酬制または報酬基準より減額若しくは増額する場合があります。<br>お見積もりは無料ですので、お気軽にご相談ください。"
+
+#: about.php:214
+msgid "about__consultation"
+msgstr "法律相談"
+
+#: about.php:218
+msgid "about__consultation_fee"
+msgstr "30分あたり7000円（但し、そのまま委任契約に至った場合は、法律相談料は請求いたしません。）"
+
+#: about.php:222
+msgid "about__civil_case"
+msgstr "民事事件（資力要件を満たす方は法テラス利用も可能）"
+
+#: about.php:227
+msgid "about__civil_case_body_01"
+msgstr "着手金　経済的利益の8%（経済的利益が300万円を超える場合は5%+9万円）、ただし着手金の最低額は原則として10万円とする。<br />成功報酬　経済的利益の16%（経済的利益が300万円を超える場合は、10%＋18万円）"
+
+#: about.php:231
+msgid "about__civil_case_body_02"
+msgstr "民事執行事件の着手金は5万円～"
+
+#: about.php:235
+msgid "about__civil_case_body_03"
+msgstr "英語又はスペイン語を要する案件の場合は、タイムチャージ方式を原則とし、1時間当たり3万円とする。（ただし、事案に応じて、着手金・成功報酬制にて受任することも可能）"
+
+#: about.php:239
+msgid "about__contract_negotiation"
+msgstr "契約締結交渉"
+
+#: about.php:243
+msgid "about__contract_negotiation_body_01"
+msgstr "着手金　目的価格の2%（ただし、最低着手金は10万円）"
+
+#: about.php:244
+msgid "about__contract_negotiation_body_02"
+msgstr "成功報酬　目的価格の4%"
+
+#: about.php:245
+msgid "about__contract_negotiation_body_03"
+msgstr "または、タイムチャージ方式（１時間あたり2万8000円）"
+
+#: about.php:246
+msgid "about__contract_negotiation_body_04"
+msgstr "契約書審査については、3万5000円〜の固定金額にてお受けすることも可能です。"
+
+#: about.php:249
+msgid "about__divorce"
+msgstr "離婚事件"
+
+#: about.php:254
+msgid "about__divorce_body_01"
+msgstr "離婚協議　着手金10万円～、成功報酬20万円～とする。"
+
+#: about.php:258
+msgid "about__divorce_body_02"
+msgstr "離婚調停　着手金30万円～（但し、離婚協議から受任している場合は、20万円～とする） 調停期日が4回を超える場合は、超えた期日につき、1期日3万円の日当が発生するものとする。 成功報酬20万円～とする。"
+
+#: about.php:262
+msgid "about__divorce_body_03"
+msgstr "離婚訴訟　離婚調停に関する着手金に追加にて20万円～ 、成功報酬20万円～<br />なお、いずれの場合も、婚姻費用、養育費、慰謝料及び財産分与を請求する場合、又はされている場合は、成功報酬の計算において得られた経済的利益の16%（経済的利益が300万円を超える場合は、10%＋18万円）を加算するものとする。"
+
+#: about.php:267
+msgid "about__internet_slander"
+msgstr "ネットでの誹謗中傷対策"
+
+#: about.php:272
+msgid "about__internet_slander_body_01"
+msgstr "任意の削除請求　着手金　5万円～、成功報酬5万円～ "
+
+#: about.php:276
+msgid "about__internet_slander_body_02"
+msgstr "仮処分手続（誹謗中傷記事削除・IP開示請求）　着手金20万円～、報酬金15万円～"
+
+#: about.php:280
+msgid "about__internet_slander_body_03"
+msgstr "発信者情報開示請求　着手金20万円～、報酬金15万円～"
+
+#: about.php:285
+msgid "about__bankruptcya"
+msgstr "破産、民事再生等"
+
+#: about.php:289 about.php:290
+msgid "about__bankruptcya_body_01"
+msgstr "着手金　非事業者の場合20万円～、事業者の場合50万円～。"
+
+#: about.php:290
+msgid "about__bankruptcya_body_02"
+msgstr "成功報酬 bの1に準ずる"
+
+#: about.php:293
+msgid "about__will"
+msgstr "遺言関連"
+
+#: about.php:298
+msgid "about__will_body_01"
+msgstr "遺言書作成　10万円～（遺言執行者に選任される場合5万円）"
+
+#: about.php:302
+msgid "about__will_body_02"
+msgstr "遺言執行　経済的利益が300万円以下の場合30万円、経済的利益が300万円を超える場合　2%+24万円<br />遺言執行に裁判手続きを要する場合には、別途bに準じた報酬を請求するものとする"
+
+#: about.php:307
+msgid "about__criminal_case"
+msgstr "刑事事件"
+
+#: about.php:312
+msgid "about__criminal_case_body_01"
+msgstr "身柄拘束をともなうもの　着手金30万円～、成功報酬20万円～ "
+
+#: about.php:316
+msgid "about__criminal_case_body_02"
+msgstr "在宅事件　着手金　20万円～、成功報酬20万円～"
+
+#: about.php:321
+msgid "about__victim_assistance"
+msgstr "犯罪被害者援助（法テラス利用にて実質無料となる場合があります）"
+
+#: about.php:325
+msgid "about__victim_assistance_body_01"
+msgstr " 着手金15万円～、成功報酬15万円～又は経済的利益の15%"
+
+#: about.php:326
+msgid "about__victim_assistance_body_02"
+msgstr "損害賠償命令申立については、bを基準とする。"
+
+#: about.php:329
+msgid "about__daily_allowance"
+msgstr "日当"
+
+#: about.php:334
+msgid "about__daily_allowance_body_01"
+msgstr "往復の移動時間が2時間を超え4時間以下となる遠方への出張　日当3万円"
+
+#: about.php:338
+msgid "about__daily_allowance_body_02"
+msgstr "往復の移動時間が4時間を超える遠方への出張　日当5万円"
+
+#: about.php:342
+msgid "about__daily_allowance_body_03"
+msgstr "上記着手金等を割引する代わりに、裁判手続き等の期日ごとに日当を設定する場合もございます。"
+
+#: about.php:347
+msgid "about__fee_notice"
+msgstr "いずれも、消費税及び実費は別途いただきます。<br />上記に記載のないものは、当事務所に備置されている報酬基準による。"
+
+#: access_section_inner.php:4
+msgid "access__about_office"
+msgstr "当弁護士事務所について"
+
+#: access_section_inner.php:12
+msgid "access__office_name_t"
+msgstr "事務所名称"
+
+#: access_section_inner.php:15
+msgid "access__office_name_d"
+msgstr "直田法律事務所"
+
+#: access_section_inner.php:18
+msgid "access__phone_number_t"
+msgstr "電話番号"
+
+#: access_section_inner.php:21
+msgid "access__phone_number_d"
+msgstr "03-6457-3602"
+
+#: access_section_inner.php:24
+msgid "access__fax_d"
+msgstr "FAX"
+
+#: access_section_inner.php:27
+msgid "access__fax_t"
+msgstr "03-6457-3603"
+
+#: access_section_inner.php:30
+msgid "access__address_t"
+msgstr "住所"
+
+#: access_section_inner.php:33
+msgid "access__address_d"
+msgstr "〒160-0023<br />東京都新宿区西新宿8-14-18<br />恵南ビル5　5階"
+
+#: access_section_inner.php:36
+msgid "access__check_on_map"
+msgstr "地図で確認する"
+
+#: archive.php:12 archive.php:33
+msgid "archive__title"
+msgstr "News"
+
+#: archive.php:16
+msgid "archive__subtitle"
+msgstr "新着情報"
+
+#: archive.php:27
+msgid "archive_news_list"
+msgstr "News List"
+
+#: archive.php:34
+msgid "archive__description"
+msgstr "これまでのニュース"
+
+#: archive.php:57
+msgid "archive__read_more"
+msgstr "続きを読む"
+
+#: archive.php:76
+msgid "archive__see_more"
+msgstr "もっとみる"
+
+#: contact_section_inner.php:3
+msgid "contact__feel_free_to_contact_us"
+msgstr "お気軽にお問い合わせ下さい。"
+
+#: header.php:31
+msgid "header__introduce_lawyer"
+msgstr "弁護士紹介"
+
+#: header.php:34
+msgid "header__topics_handled"
+msgstr "取扱案件"
+
+#: header.php:37
+msgid "header__contact"
+msgstr "お問合わせ"
+
+#: index.php:8
+msgid "top__main_copy"
+msgstr "すべての依頼者に寄り添った対応を"
+
+#: index.php:11
+msgid "top__sub_copy"
+msgstr "直田法律事務所は、すべての依頼者に徹底的に寄り添った対応を行います。<br />依頼者の最良のパートナーとして、依頼者のビジネスや人生を支えます。<br />英語・スペイン語による対応可能"
+
+#: index.php:13
+msgid "top__contact_here"
+msgstr "お問合わせはこちら"
+
+#: index.php:20
+msgid "top__office_strength"
+msgstr "当事務所の強み"
+
+#: index.php:30
+msgid "top__multilingual_support"
+msgstr "多言語による対応"
+
+#: index.php:32
+msgid "top__multilingual_support_body"
+msgstr "英語・スペイン語による対応が可能<br />契約書審査のみならず、<br />交渉を代理することも可能です。"
+
+#: index.php:34
+msgid "top__check_career"
+msgstr "経歴"
+
+#: index.php:42
+msgid "top__reasonable_price"
+msgstr "最良の法務サービスを適正価格で"
+
+#: index.php:44
+msgid "top__reasonable_price_body"
+msgstr "提供する法務サービスの質の高さには自信を有しております。<br />お見積もりは無料です。"
+
+#: index.php:46
+msgid "top__check_pricing"
+msgstr "料金表を確認"
+
+#: index.php:54
+msgid "top__records_and_experience"
+msgstr "豊富な実績と経験"
+
+#: index.php:56
+msgid "top__records_and_experience_body"
+msgstr "契約審査、債権回収、訴訟代理、法律顧問業務など、多岐にわたる経験と実績があります。企業のみならず、個人の依頼者の事件もお受けしております。"
+
+#: index.php:58
+msgid "top__check_topics_handled"
+msgstr "取扱業務を確認"
+
+#: index.php:69
+msgid "top__introduce_lawyer"
+msgstr "直田法律事務所の紹介"
+
+#: index.php:75
+msgid "top__introduce_lawyer_body"
+msgstr "小規模な事務所であるため、全ての依頼者に寄り添った個別的かつオーダーメイドの緻密な対応を行なっており、弁護士費用も適正価格を維持することができています。<br /><br />英語・スペイン語による対応が可能なため、英語圏またはスペイン語圏の依頼者の案件も多く取り扱っております。"
+
+#: index.php:77
+msgid "top__detail_here"
+msgstr "詳しくはこちら"
+
+#: index.php:86
+msgid "top__main_topics_handled"
+msgstr "主な取扱業務"
+
+#: index.php:97
+msgid "top__vb_corporate_law"
+msgstr "ベンチャー法務"
+
+#: index.php:100
+msgid "top__vb_corporate_law_body"
+msgstr "企業法務の中でも特に、中小企業の立ち上げ時から拡大期のサポートに強みを有しています。<br />法律顧問業務、新規ビジネスの法務チェック、契約書審査、規約類の作成、債権回収、訴訟提起、労働問題など、企業が事業活動を行う上で遭遇するトラブルや、将来の法的リスクの回避のために必要なアドバイスや、代理業務を行なっております。"
+
+#: index.php:112
+msgid "top__collection_of_claim"
+msgstr "債権回収"
+
+#: index.php:115
+msgid "top__collection_of_claim_body"
+msgstr "早期の相談と対策が、債権回収のためには一番重要です。<br />複数の債権回収業務が発生する会社の場合は、月額固定報酬にて、完全成功報酬制にて、</a>訴訟提起まで含めてサポートを行う、債権回収に特化した顧問契約も可能です。"
+
+#: index.php:127
+msgid "top__traffic_accident"
+msgstr "交通事故被害"
+
+#: index.php:130
+msgid "top__traffic_accident_body"
+msgstr "交通事故専門相談員としても登録されており、個人の依頼者の案件の中では、特に交通事故案件に強みを有しております。"
+
+#: index.php:142
+msgid "top__spanish_topics"
+msgstr "スペイン語圏の依頼者の案件"
+
+#: index.php:145
+msgid "top__spanish_topics_body"
+msgstr "スペイン語による対応が可能な弁護士は少なく、スペイン語圏の依頼者の日本進出や、日本における契約交渉・トラブルの代理やアドバイスに強みを有しています。"
+
+#: news_section_inner.php:3
+msgid "news__title"
+msgstr "新着情報"
+
+
+#. Theme Name of the plugin/theme
+msgid "lawyer_naota"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "直田先生のためのテーマ"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "作者の名前"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""

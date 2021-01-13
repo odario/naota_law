@@ -1,0 +1,71 @@
+global:
+  sql_adapter: "default"
+
+local:
+  vhost: "http://localhost:8080"
+  wordpress_path: "/Users/takishima/Documents/dev/htdocs/lawyer_naota/wp"
+  database:
+    name: "naota-law"
+    user: "root"
+    password: "biydiZqCKm8s"
+    host: "localhost"
+
+staging:
+  vhost: "http://futurize.sakura.ne.jp"
+  wordpress_path: "/home/futurize/www" # use an absolute path here
+  database:
+    name: "futurize_naota-law"
+    user: "futurize"
+    password: "aVorXow2Y8P3KnRPQe"
+    host: "mysql430.db.sakura.ne.jp"
+
+  ssh:
+    host: "www3326.sakura.ne.jp"
+    user: "futurize"
+    rsync_options: "--verbose" # Additional rsync options, optional
+
+  exclude:
+    - ".DS_Store"
+    - ".git/"
+    - ".gitignore"
+    - ".sass-cache/"
+    - "node_modules/"
+    - "bin/"
+    - "tmp/*"
+    - "Gemfile*"
+    - "Movefile"
+    - "wp-config.php"
+    - "wp-content/*.sql.gz"
+    - ".htaccess"
+
+# production:
+#   vhost: "http://example.com"
+#   wordpress_path: "/var/www/your_site" # use an absolute path here
+#
+#   database:
+#     name: "database_name"
+#     user: "user"
+#     password: "password"
+#     host: "host"
+#     # port: "3308" # Use just in case you have exotic server config
+#     # mysqldump_options: "--max_allowed_packet=1G" # Only available if using SSH
+#
+#   exclude:
+#     - ".git/"
+#     - ".gitignore"
+#     - ".sass-cache/"
+#     - "node_modules/"
+#     - "bin/"
+#     - "tmp/*"
+#     - "Gemfile*"
+#     - "Movefile"
+#     - "wp-config.php"
+#     - "wp-content/*.sql.gz"
+
+  # paths: # you can customize wordpress internal paths
+  #   wp_content: "wp-content"
+  #   uploads: "wp-content/uploads"
+  #   plugins: "wp-content/plugins"
+  #   mu_plugins: "wp-content/mu-plugins"
+  #   themes: "wp-content/themes"
+  #   languages: "wp-content/languages"
